@@ -4,7 +4,7 @@ Overview
 This repository contains code for a sentiment analysis project. The goal is to predict the sentiment (positive or negative) of textual input using a Random Forest Classifier.
 
 Usage
-Clone the repository:
+Clone the repository :
 git clone [https://github.com/yourusername/sentiment-analysis-project.git
 cd sentiment-analysis-project](https://github.com/aryanntated/Sentiment_Analysis.git)
 
