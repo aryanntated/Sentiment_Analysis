@@ -5,8 +5,8 @@ This repository contains code for a sentiment analysis project. The goal is to p
 
 Usage
 Clone the repository:
-git clone https://github.com/yourusername/sentiment-analysis-project.git
-cd sentiment-analysis-project
+git clone [https://github.com/yourusername/sentiment-analysis-project.git
+cd sentiment-analysis-project](https://github.com/aryanntated/Sentiment_Analysis.git)
 
 Install dependencies:
 pip install -r requirements.txt
